@@ -1,0 +1,5 @@
+main: com.subtextgroup.mcp.wym.WatchYourMouth
+name: WatchYourMouth
+version: 1.0
+author: ryanjohnson
+description: Language filter
